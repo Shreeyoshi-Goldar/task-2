@@ -1,0 +1,43 @@
+How to Verify a Token Contract
+
+Verifying a token contract ensures that the code deployed on the blockchain is transparent and trustworthy. It allows anyone to read and confirm that the contract behaves as expected.
+
+Step 1: Get the Contract Address
+
+Go to the project’s official website or announcement and copy the token’s contract address. Always double-check to avoid fake tokens.
+
+Step 2: Open a Blockchain Explorer
+
+Use a blockchain explorer like Etherscan (for Ethereum) or BscScan (for BNB Chain). Paste the contract address in the search bar.
+
+Step 3: Check Contract Details
+
+Once opened, review:
+
+Token name and symbol
+Total supply
+Holder distribution
+
+This helps confirm basic authenticity.
+
+Step 4: Verify Source Code
+
+Click on the “Contract” tab.
+
+If it shows “Contract Source Code Verified”, the code is public ✅
+If not verified ❌, be cautious before interacting
+Step 5: Compare with Official Info
+
+Match the contract address and details with the project’s official channels (website, social media, or documentation).
+
+Step 6: Look for Audit Reports
+
+Check if the contract has been audited by a trusted platform. Audits reduce risks and increase credibility.
+
+Step 7: Review Activity
+
+Analyze recent transactions and holder behavior to detect unusual activity or red flags.
+
+Final Tip
+
+Never trust a token just by its name. Always verify the contract, source code, and authenticity before investing or interacting.
